@@ -9,7 +9,12 @@
   "author": "Chen Yan",
   "license": "ISC",
   "dependencies": {
+    "angular": "^1.5.7",
+    "angular-resource": "^1.5.7",
+    "angular-route": "^1.5.7",
+    "bootstrap": "^3.3.6",
     "express": "^4.14.0",
-    "request": "^2.72.0"
+    "request": "^2.72.0",
+    "socket.io": "^1.4.8"
   }
 }
