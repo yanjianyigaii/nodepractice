@@ -1,0 +1,15 @@
+{
+  "name": "node-practice",
+  "version": "1.0.0",
+  "description": "practice project for node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chen Yan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "request": "^2.72.0"
+  }
+}
